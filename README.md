@@ -12,6 +12,7 @@
     <p>node . -? "1/4 + 1/4"</p>
   </li>
 </ol>
+<p>The main file containing the code for performing the operations is https://github.com/gjbecerril/cli-fraction-operations/blob/master/bin/index.js</p>
  <p>These are my test cases. The code results were tested against the same operations performed at <a href="https://www.calculatorsoup.com/calculators/math/mixednumbers.php">CalculatorSoup</a>. You can copy and paste multiple operation strings to the CLI, just remove the “= ½” part.</p>
  
 <h3>Addition:</h3>
